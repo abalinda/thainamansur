@@ -1733,16 +1733,16 @@ article:last-child {
 
 .image img {
   display: inline-block;
-  width: 110%;
+  width: 100%;
 }
 
 .image.fit {
   display: inline-block;
-  width: 110%;
+  width: 100%;
 }
 
 .image.featured {
-  display: block;
+  display: inline-block;
   width: 100%;
   margin: 0 0 2em 0;
 }
