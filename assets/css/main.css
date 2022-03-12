@@ -1732,13 +1732,13 @@ article:last-child {
 }
 
 .image img {
-  display: block;
-  width: 100%;
+  display: inline-block;
+  width: 110%;
 }
 
 .image.fit {
-  display: block;
-  width: 100%;
+  display: inline-block;
+  width: 110%;
 }
 
 .image.featured {
@@ -2269,8 +2269,6 @@ body > article {
 #contact footer {
   font-size: 0.9em;
 }
-
-/* Copyright */
 
 #copyright {
   color: #666;
