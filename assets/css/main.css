@@ -2002,6 +2002,11 @@ ul.social li a:hover {
   top: -5px;
 }
 
+#wp:hover {
+  background-color: #25d366;
+  margin: 0;
+}
+
 ul.social li a:hover:before {
   background-color: transparent;
 }
@@ -2538,6 +2543,13 @@ body > article {
 
   #nav a:hover {
     background-color: transparent;
+  }
+
+  #wp li:hover {
+    color: #25d366;
+  }
+  #wp:hover {
+    color: #25d366;
   }
 
   /* Articles */
