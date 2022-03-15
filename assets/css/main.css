@@ -1733,12 +1733,12 @@ article:last-child {
 
 .image img {
   display: inline-block;
-  width: 110%;
+  width: 100%;
 }
 
 .image.fit {
   display: inline-block;
-  width: 110%;
+  width: 100%;
 }
 
 .image.featured {
@@ -2118,7 +2118,7 @@ ul.actions li:first-child {
     rgba(227, 224, 219, 1) 39%
   );
 
-  text-shadow: 1px 1px 0px #fff;
+  /* text-shadow: 1px 1px 0px rgb(0, 0, 0); */
 }
 
 .wrapper.style2 {
@@ -2128,7 +2128,7 @@ ul.actions li:first-child {
     rgba(93, 169, 170, 0.7) 0%,
     rgba(227, 224, 219, 1) 39%
   );
-  text-shadow: 1px 1px 0px #fff;
+  /* text-shadow: 1px 1px 0px #fff; */
 }
 
 .wrapper.style3 {
